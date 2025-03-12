@@ -1,9 +1,10 @@
 {
     "paths": {
-        "data_dir": "./",
-        "downloads_dir": "./downloads",
-        "logs_dir": "./logs",
-        "summary_dir": "./summary"
+        "data_dir": "./data",
+        "downloads_dir": "./data/downloads",
+        "processed_dir": "./data/processed",
+        "logs_dir": "./data/logs", 
+        "summary_dir": "./data/final"
     },
     "excel_urls": {
         "Arequipa": {
@@ -149,6 +150,21 @@
         "Trujillo - La Noria": {
             "nivel": "1A",
             "url": "https://1drv.ms/x/s!ArwtqyUha2-CmyRS0xFu3Woiz7oc?e=TJpv6c"
+        }
+    }, 
+    "google_services": {
+        "client_id": {
+            "type": "service_account",
+            "project_id": "acoustic-alpha-452721-d0",
+            "private_key_id": "1372f00b966babd00e74f46358e1455522789d1d",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQChmqa+8asHLbMV\nmMarq+xXGyNJo8UEUJhk6+LLFrKp969TFkxydMfLNcSesVqvkYaogRp6tz1jnyX6\nojIbhrxAlrm1mgO4HROr5yqc4SmBUwmWvcvExVnGL7S7FqtsF+eDOn+p3XHEASe+\nLM2g3xi82kdzxmCKOWr+5ltprmM008lLvBuuuDr3x8hiXBz2WGnA5sxITqNfHyGZ\nSv4YCm8mCxSYYvUu4kJ2GwgpDin2l6P4taRqU9Y8Y0w1wvSZKGxgC8PZ4902U8dL\nWBG+I1ybYjItISpJ/glsZCrWHaimH0KwLCNQ6V1X6WJ/5JUUC3h7Bh/8Uzi5btu/\nPX1Z1RL3AgMBAAECggEAUHryW9mC8TpDG5hQKKKgOuka88uJjJKOsoP/GGEfbSIa\nwGg0fjPGZF9MojN1FEaHJ1fUVhT3j6tsgJtSFP9OtWPa7KPdAk4Iw+2F/UbtIqi1\n98phtocKJHcRrLKngFePRn1VosTTqWdh4YXyihFRAow6VWAQKAZcUMFr+P+ODHo5\n/710s4+kQmvAxWR33M1Wn+Uv47mdyJrF9jZ8QAqt7cvdC1imZ/OFvh+UU44kNZYL\nsB/dAc0/GOU7I5cU621otLX/0oBj5mgvK+uzma5AOgpKWC7+BaMgOF6zPZy0wo2f\nW9Gwy8DtejsULfG6ibcSf/2FlJroh/cm81iAngFeoQKBgQDPGQmIcLA5yBJIRc99\n7i5No+PSBZRLespQqzdX2HkXsyZC4AuQ/tn7EQAPRTqQNsPCHURBsOxwxP/jhDBS\nY10+ubeJjhTJf0+L+hygX5L34FTBAa8btzoY/vizFOWU9z3KZI0G4sWk83cOvRMN\nPinOhVwCe58J82/ohvL6wWcoKQKBgQDHw4rF73uK43ADJ1kcNMD+gHhd6h1VaV7R\n9SXv5U/Q9Vm6xp6A5/9C2TI7nVMPrCNgC0LZMmXGBSq/E6nQvAbZ/R73IpjLyF2v\nAoXBzX1ZkyPfLjo1cPtU+IrseyUDlAFo6Rz3BUHAbks3N8iBtMTQOmfjGSIEDNuN\nb+wayfxGHwKBgC5tSnnP6XHKrG6PV+i/UJoPN6+JmKkjKd/TwmBrIxpxCw7K80za\nFTv3n6/MsUhLPq9xqC+h3h+ZylPS+pI9vFWnhMHNnFNfuxGCTJCXXHc9T0LFgeAQ\nv3GDF3XuJVmz46JP0F3O0Mgd3H7tXCwH1494zhuwYwL0FA5o0mfsm5ehAoGBALhy\ndNAOL6QuHF7NFhpVG13igUE1yZ/zivmRwVWgBfKKmC889V1Q2QCAS0GAIhF2f7NO\nsoqZXh9Y5f9HyKRS+ICOlujZqPuAJgBR8+7eLb9nfNe1d0mg6G+sjZmMmsCTCDo2\nA+iRkgR70jdJ6njY0GDzjLjDnAThWldd4ENb/PNBAoGBALxgQ8uRDi1yA6uQzwn2\nwTQMU7rrBzc8HwKvVhBJnbG2gw3EEl/9HoxPHKNtLwBH2HObljcScc1CDhA7LtN0\nfi6GnkTZVVH4RAsvvfeqf56RkbPEJdeSbT9vzTiazBQFxYdx4rQ8+atcqDyHWpSr\nda1nVDc+YW+4P3BQBGsDe7PA\n-----END PRIVATE KEY-----\n",
+            "client_email": "oinap-prueba@acoustic-alpha-452721-d0.iam.gserviceaccount.com",
+            "client_id": "111200632880840624663",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oinap-prueba%40acoustic-alpha-452721-d0.iam.gserviceaccount.com",
+            "universe_domain": "googleapis.com"
         }
     }
 }

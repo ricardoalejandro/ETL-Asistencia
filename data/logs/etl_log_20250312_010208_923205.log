@@ -1,0 +1,72 @@
+[2025-03-12 01:02:08.923] INFO [24004] [ETL-Process] - === INICIANDO PROCESO ETL ===
+[2025-03-12 01:02:08.924] INFO [24004] [ETL-Process] - Hora de inicio: 2025-03-12 01:02:08.923880
+[2025-03-12 01:02:08.924] INFO [24004] [ETL-Process] - Iniciando proceso de extracción...
+[2025-03-12 01:02:08.925] INFO [24004] [ETL-Process.Extract] - === INICIANDO PROCESO DE EXTRACCIÓN ===
+[2025-03-12 01:02:08.927] INFO [24004] [ETL-Process.Extract] - Directorios verificados y creados si es necesario
+[2025-03-12 01:02:08.927] INFO [24004] [ETL-Process.Extract] - Iniciando proceso de descarga de archivos Excel
+[2025-03-12 01:02:08.929] INFO [24004] [ETL-Process.Extract] - Carpeta creada para descargas: c:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\./data/downloads\data_probacionismo_20250312_010208
+[2025-03-12 01:02:08.929] INFO [24004] [ETL-Process.Extract] - Procesando sede: Arequipa (Nivel 5)
+[2025-03-12 01:02:08.930] INFO [24004] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa
+[2025-03-12 01:02:14.513] INFO [24004] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 01:02:14.513] INFO [24004] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa
+[2025-03-12 01:02:14.515] INFO [24004] [ETL-Process.Extract] - Archivo guardado: Arequipa-5-20250312_010208.xlsx
+[2025-03-12 01:02:14.516] INFO [24004] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa
+[2025-03-12 01:02:14.516] INFO [24004] [ETL-Process.Extract] - Procesando sede: Arequipa - Cerro Colorado (Nivel 1A)
+[2025-03-12 01:02:14.516] INFO [24004] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa - Cerro Colorado
+[2025-03-12 01:02:18.478] INFO [24004] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 01:02:18.480] INFO [24004] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa - Cerro Colorado
+[2025-03-12 01:02:18.489] INFO [24004] [ETL-Process.Extract] - Archivo guardado: Arequipa_Cerro_Colorado-1A-20250312_010208.xlsx
+[2025-03-12 01:02:18.490] INFO [24004] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa - Cerro Colorado
+[2025-03-12 01:02:18.491] INFO [24004] [ETL-Process.Extract] - Procesando sede: Arequipa - Lambramani (Nivel 1B)
+[2025-03-12 01:02:18.491] INFO [24004] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa - Lambramani
+[2025-03-12 01:02:22.320] INFO [24004] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 01:02:22.321] INFO [24004] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa - Lambramani
+[2025-03-12 01:02:22.329] INFO [24004] [ETL-Process.Extract] - Archivo guardado: Arequipa_Lambramani-1B-20250312_010208.xlsx
+[2025-03-12 01:02:22.330] INFO [24004] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa - Lambramani
+[2025-03-12 01:02:22.330] INFO [24004] [ETL-Process.Extract] - Proceso de descarga completado. 3 de 3 archivos procesados
+[2025-03-12 01:02:22.331] INFO [24004] [ETL-Process.Extract] - === PROCESO DE EXTRACCIÓN COMPLETADO (13.406 segundos) ===
+[2025-03-12 01:02:22.332] INFO [24004] [ETL-Process] - Extracción completada en 13.407 segundos
+[2025-03-12 01:02:22.332] INFO [24004] [ETL-Process] - Archivos guardados en: c:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\./data/downloads\data_probacionismo_20250312_010208
+[2025-03-12 01:02:22.333] INFO [24004] [ETL-Process] - Archivos descargados: ['Arequipa-5-20250312_010208.xlsx', 'Arequipa_Cerro_Colorado-1A-20250312_010208.xlsx', 'Arequipa_Lambramani-1B-20250312_010208.xlsx']
+[2025-03-12 01:02:22.334] INFO [24004] [ETL-Process] - Iniciando proceso de transformación...
+[2025-03-12 01:02:22.334] INFO [24004] [ETL-Process.Transform] - Iniciando proceso de transformación de datos
+[2025-03-12 01:02:22.335] INFO [24004] [ETL-Process.Transform] - Procesando 3 archivos de c:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\./data/downloads\data_probacionismo_20250312_010208
+[2025-03-12 01:02:22.340] INFO [24004] [ETL-Process.Transform] - Iniciando procesamiento de 3 archivos
+[2025-03-12 01:02:22.341] INFO [24004] [ETL-Process.Transform] - Procesando archivo: Arequipa-5-20250312_010208.xlsx
+[2025-03-12 01:02:22.341] INFO [24004] [ETL-Process.Transform] - Procesando archivo: Arequipa-5-20250312_010208.xlsx, hoja: Probacionistas
+[2025-03-12 01:02:22.416] INFO [24004] [ETL-Process.Transform] - Filtrados 1 registros pre-inscritos
+[2025-03-12 01:02:22.418] INFO [24004] [ETL-Process.Transform] - Se eliminaron 80 filas vacías
+[2025-03-12 01:02:22.424] INFO [24004] [ETL-Process.Transform] - Archivo Arequipa-5-20250312_010208.xlsx procesado exitosamente
+[2025-03-12 01:02:22.424] INFO [24004] [ETL-Process.Transform] - Procesando archivo: Arequipa_Cerro_Colorado-1A-20250312_010208.xlsx
+[2025-03-12 01:02:22.425] INFO [24004] [ETL-Process.Transform] - Procesando archivo: Arequipa_Cerro_Colorado-1A-20250312_010208.xlsx, hoja: Probacionistas
+[2025-03-12 01:02:22.475] INFO [24004] [ETL-Process.Transform] - Filtrados 1 registros pre-inscritos
+[2025-03-12 01:02:22.476] INFO [24004] [ETL-Process.Transform] - Se eliminaron 92 filas vacías
+[2025-03-12 01:02:22.483] INFO [24004] [ETL-Process.Transform] - Archivo Arequipa_Cerro_Colorado-1A-20250312_010208.xlsx procesado exitosamente
+[2025-03-12 01:02:22.483] INFO [24004] [ETL-Process.Transform] - Procesando archivo: Arequipa_Lambramani-1B-20250312_010208.xlsx
+[2025-03-12 01:02:22.483] INFO [24004] [ETL-Process.Transform] - Procesando archivo: Arequipa_Lambramani-1B-20250312_010208.xlsx, hoja: Probacionistas
+[2025-03-12 01:02:22.535] INFO [24004] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 01:02:22.537] INFO [24004] [ETL-Process.Transform] - Se eliminaron 87 filas vacías
+[2025-03-12 01:02:22.543] INFO [24004] [ETL-Process.Transform] - Archivo Arequipa_Lambramani-1B-20250312_010208.xlsx procesado exitosamente
+[2025-03-12 01:02:22.543] INFO [24004] [ETL-Process.Transform] - Combinando resultados de todos los archivos
+[2025-03-12 01:02:22.544] INFO [24004] [ETL-Process.Transform] - Transformando estructura de datos (unpivot)
+[2025-03-12 01:02:22.548] INFO [24004] [ETL-Process.Transform] - Transformación completada. Shape final: (96, 7)
+[2025-03-12 01:02:22.548] INFO [24004] [ETL-Process.Transform] - Guardando resultados en transformado_2025-03-12-01-02-22.xlsx
+[2025-03-12 01:02:22.570] INFO [24004] [ETL-Process.Transform] - Archivo transformado guardado exitosamente
+[2025-03-12 01:02:22.570] INFO [24004] [ETL-Process] - Transformación completada en 0.236 segundos
+[2025-03-12 01:02:22.571] INFO [24004] [ETL-Process] - Archivo generado: c:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\./data/processed\transformado_2025-03-12-01-02-22.xlsx
+[2025-03-12 01:02:22.571] INFO [24004] [ETL-Process] - Iniciando proceso de carga...
+[2025-03-12 01:02:22.571] INFO [24004] [ETL-Process.Load] - === INICIANDO PROCESO DE CARGA ===
+[2025-03-12 01:02:22.572] INFO [24004] [ETL-Process.Load] - Iniciando carga de datos desde: transformado_2025-03-12-01-02-22.xlsx
+[2025-03-12 01:02:22.581] INFO [24004] [ETL-Process.Load] - Datos leídos del Excel, shape: (96, 7)
+[2025-03-12 01:02:22.582] INFO [24004] [ETL-Process.Load] - Configurando cliente de Google Sheets
+[2025-03-12 01:02:22.619] INFO [24004] [ETL-Process.Load] - Cliente de Google Sheets configurado exitosamente
+[2025-03-12 01:02:22.620] INFO [24004] [ETL-Process.Load] - Conectando con Google Sheet ID: 1KyRGrnkql19dQYnnPxmecLd3hQ7Cn2fLJ8BOBLHKtMA
+[2025-03-12 01:02:23.923] INFO [24004] [ETL-Process.Load] - Preparando datos para la carga
+[2025-03-12 01:02:23.926] INFO [24004] [ETL-Process.Load] - Limpiando contenido existente en Google Sheets
+[2025-03-12 01:02:24.279] INFO [24004] [ETL-Process.Load] - Cargando 96 filas de datos
+[2025-03-12 01:02:25.108] INFO [24004] [ETL-Process.Load] - Datos cargados exitosamente en: https://docs.google.com/spreadsheets/d/1KyRGrnkql19dQYnnPxmecLd3hQ7Cn2fLJ8BOBLHKtMA
+[2025-03-12 01:02:25.109] INFO [24004] [ETL-Process.Load] - === PROCESO DE CARGA COMPLETADO EXITOSAMENTE ===
+[2025-03-12 01:02:25.110] INFO [24004] [ETL-Process] - Proceso de carga completado en 2.539 segundos
+[2025-03-12 01:02:25.111] INFO [24004] [ETL-Process] - === PROCESO ETL COMPLETADO ===
+[2025-03-12 01:02:25.111] INFO [24004] [ETL-Process] - Hora de finalización: 2025-03-12 01:02:25.110992
+[2025-03-12 01:02:25.111] INFO [24004] [ETL-Process] - Duración total: 16.187 segundos

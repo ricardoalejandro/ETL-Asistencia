@@ -2,9 +2,8 @@
     "paths": {
         "data_dir": "./data",
         "downloads_dir": "./data/downloads",
-        "processed_dir": "./data/processed",
-        "logs_dir": "./data/logs", 
-        "summary_dir": "./data/final"
+        "processed_dir": "./data/processed", 
+        "logs_dir": "./data/logs"
     },
     "excel_urls": {
         "Arequipa": {
@@ -18,138 +17,6 @@
         "Arequipa - Lambramani": {
             "nivel": "1B",
             "url": "https://1drv.ms/x/s!ArwtqyUha2-CmwEXHHF6mIu5HpBw?e=YjVBMv"
-        },
-        "Arequipa - Umacollo": {
-            "nivel": "1A",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmnH9elzaKLh4z8u8?e=LgXUyF"
-        },
-        "Ayacucho": {
-            "nivel": "6",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmwg3Rrq8PgX61n3g?e=Jc05Vk"
-        },
-        "Ayacucho Norte": {
-            "nivel": "1B",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmnMz6E0U9mNa-3ov?e=yvJuxy"
-        },
-        "Cajamarca": {
-            "nivel": "6",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmwMygp4vdrYtlz5Q?e=SEQXkZ"
-        },
-        "Cajamarca - Centro Histórico": {
-            "nivel": "1B",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmxKH2WyCRuIawAoI?e=ObMqDf"
-        },
-        "Cajamarca - Norte": {
-            "nivel": "1A",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmnLYdAa54Y3UEZfI?e=XId3x5"
-        },
-        "Cerro de Pasco": {
-            "nivel": "1A",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmm6hrYYIn28S2tb7?e=FxiNd8"
-        },
-        "Chiclayo": {
-            "nivel": "3",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmmXOfJXShh5c7E39?e=dCLFwo"
-        },
-        "Cusco": {
-            "nivel": "6",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmwqLBnRHV4TXIpEI?e=qmaOZn"
-        },
-        "Huancayo": {
-            "nivel": "6",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmnWUEuan1-0fcHCu?e=3WxgYB"
-        },
-        "Huancayo - El Tambo": {
-            "nivel": "1B",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmw5vGzkuvVa06O2u?e=S2Zfkk"
-        },
-        "Huancayo - Julio Sumar": {
-            "nivel": "1A",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmyIqNVEZDoxNvmUy?e=e6kSFP"
-        },
-        "Huanuco": {
-            "nivel": "5",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmmPoYBsQa_ekQZWo?e=7eKvHq"
-        },
-        "Huaraz": {
-            "nivel": "4",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmmpNu-lUP2oja5Ho?e=ms5HHq"
-        },
-        "Ica": {
-            "nivel": "2",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmmTELvkBOMLnyNyl?e=B4aeEd"
-        },
-        "Ilo": {
-            "nivel": "3",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmmKcq8rxln1USbG5?e=z8Zlho"
-        },
-        "Iquitos": {
-            "nivel": "4",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmnc76ElKT0V_U6VQ?e=9VU2PR"
-        },
-        "Juliaca": {
-            "nivel": "3",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmmbHusOl3iVaW3zS?e=UYB7LV"
-        },
-        "Lima - Breña": {
-            "nivel": "6",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmxFNMdrEsiWbidcc?e=uhSwJS"
-        },
-        "Lima - Jesús María": {
-            "nivel": "1B",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmm8P1pwusujlXOEG?e=F7bYZT"
-        },
-        "Lima - La Molina": {
-            "nivel": "2",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmxk9aka18y_-NcNJ?e=FJTzne"
-        },
-        "Lima - Pueblo Libre": {
-            "nivel": "3",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmnk1OzRyJOh-1uCa?e=iHtKg4"
-        },
-        "Lima - San Miguel": {
-            "nivel": "1B",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmnpM-RR0EiZIUayf?e=Kgo7Rs"
-        },
-        "Pisco": {
-            "nivel": "3",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmxekT69cyydFeCFU?e=i7CJrG"
-        },
-        "Pucallpa": {
-            "nivel": "4",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmn3s6-xZga37LPus?e=takqJU"
-        },
-        "Puno": {
-            "nivel": "2",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmxUyXdI9BDLJl-0U?e=HHzpZA"
-        },
-        "Tacna": {
-            "nivel": "4",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmyxIsPAvZsu9GKR6?e=ecrj3F"
-        },
-        "Tacna - Av. Ejercito": {
-            "nivel": "2",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmy66TFlU7ac25Wd3?e=5pPHfe"
-        },
-        "Tacna - Gregorio Albarracin": {
-            "nivel": "1A",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-Cmy2moVsTj7viiq7P?e=JRLOhh"
-        },
-        "Tarapoto": {
-            "nivel": "2",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmymHCA2r5mDZRdjO?e=03UxOl"
-        },
-        "Trujillo": {
-            "nivel": "5",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmyWNR2zh0gcPsj70?e=Rolsr4"
-        },
-        "Trujillo - La Merced": {
-            "nivel": "1B",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmycMGGDpibST-8mP?e=P6boRx"
-        },
-        "Trujillo - La Noria": {
-            "nivel": "1A",
-            "url": "https://1drv.ms/x/s!ArwtqyUha2-CmyRS0xFu3Woiz7oc?e=TJpv6c"
         }
     }, 
     "google_services": {

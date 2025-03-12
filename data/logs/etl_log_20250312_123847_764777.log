@@ -1,0 +1,520 @@
+[2025-03-12 12:38:47.765] INFO [14074] [ETL-Process] - === INICIANDO PROCESO ETL ===
+[2025-03-12 12:38:47.765] INFO [14074] [ETL-Process] - Hora de inicio: 2025-03-12 12:38:47.765035
+[2025-03-12 12:38:47.765] INFO [14074] [ETL-Process] - Iniciando proceso de extracción...
+[2025-03-12 12:38:47.765] INFO [14074] [ETL-Process.Extract] - === INICIANDO PROCESO DE EXTRACCIÓN ===
+[2025-03-12 12:38:47.765] INFO [14074] [ETL-Process.Extract] - Directorios verificados y creados si es necesario
+[2025-03-12 12:38:47.766] INFO [14074] [ETL-Process.Extract] - Iniciando proceso de descarga de archivos Excel
+[2025-03-12 12:38:47.766] INFO [14074] [ETL-Process.Extract] - Carpeta creada para descargas: /workspaces/ETL-Asistencia/./data/downloads/data_probacionismo_20250312_123847
+[2025-03-12 12:38:47.766] INFO [14074] [ETL-Process.Extract] - Procesando sede: Arequipa (Nivel 5)
+[2025-03-12 12:38:47.766] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa
+[2025-03-12 12:38:49.450] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:38:49.450] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa
+[2025-03-12 12:38:49.452] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Arequipa-5-20250312_123847.xlsx
+[2025-03-12 12:38:49.452] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa
+[2025-03-12 12:38:49.452] INFO [14074] [ETL-Process.Extract] - Procesando sede: Arequipa - Cerro Colorado (Nivel 1A)
+[2025-03-12 12:38:49.452] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa - Cerro Colorado
+[2025-03-12 12:38:51.764] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:38:51.764] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa - Cerro Colorado
+[2025-03-12 12:38:51.765] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Arequipa_Cerro_Colorado-1A-20250312_123847.xlsx
+[2025-03-12 12:38:51.766] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa - Cerro Colorado
+[2025-03-12 12:38:51.766] INFO [14074] [ETL-Process.Extract] - Procesando sede: Arequipa - Lambramani (Nivel 1B)
+[2025-03-12 12:38:51.766] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa - Lambramani
+[2025-03-12 12:38:53.814] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:38:53.814] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa - Lambramani
+[2025-03-12 12:38:53.815] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Arequipa_Lambramani-1B-20250312_123847.xlsx
+[2025-03-12 12:38:53.815] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa - Lambramani
+[2025-03-12 12:38:53.815] INFO [14074] [ETL-Process.Extract] - Procesando sede: Arequipa - Umacollo (Nivel 1A)
+[2025-03-12 12:38:53.816] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa - Umacollo
+[2025-03-12 12:38:55.656] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:38:55.656] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa - Umacollo
+[2025-03-12 12:38:55.658] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Arequipa_Umacollo-1A-20250312_123847.xlsx
+[2025-03-12 12:38:55.658] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa - Umacollo
+[2025-03-12 12:38:55.658] INFO [14074] [ETL-Process.Extract] - Procesando sede: Ayacucho (Nivel 6)
+[2025-03-12 12:38:55.658] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Ayacucho
+[2025-03-12 12:38:57.282] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:38:57.282] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Ayacucho
+[2025-03-12 12:38:57.283] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Ayacucho-6-20250312_123847.xlsx
+[2025-03-12 12:38:57.283] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Ayacucho
+[2025-03-12 12:38:57.283] INFO [14074] [ETL-Process.Extract] - Procesando sede: Ayacucho Norte (Nivel 1B)
+[2025-03-12 12:38:57.284] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Ayacucho Norte
+[2025-03-12 12:38:58.958] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:38:58.958] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Ayacucho Norte
+[2025-03-12 12:38:58.960] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Ayacucho_Norte-1B-20250312_123847.xlsx
+[2025-03-12 12:38:58.960] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Ayacucho Norte
+[2025-03-12 12:38:58.960] INFO [14074] [ETL-Process.Extract] - Procesando sede: Cajamarca (Nivel 6)
+[2025-03-12 12:38:58.960] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Cajamarca
+[2025-03-12 12:39:00.551] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:00.551] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Cajamarca
+[2025-03-12 12:39:00.553] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Cajamarca-6-20250312_123847.xlsx
+[2025-03-12 12:39:00.553] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Cajamarca
+[2025-03-12 12:39:00.553] INFO [14074] [ETL-Process.Extract] - Procesando sede: Cajamarca - Centro Histórico (Nivel 1B)
+[2025-03-12 12:39:00.553] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Cajamarca - Centro Histórico
+[2025-03-12 12:39:02.191] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:02.191] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Cajamarca - Centro Histórico
+[2025-03-12 12:39:02.193] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Cajamarca_Centro_Histórico-1B-20250312_123847.xlsx
+[2025-03-12 12:39:02.193] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Cajamarca - Centro Histórico
+[2025-03-12 12:39:02.193] INFO [14074] [ETL-Process.Extract] - Procesando sede: Cajamarca - Norte (Nivel 1A)
+[2025-03-12 12:39:02.193] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Cajamarca - Norte
+[2025-03-12 12:39:02.892] WARNING [14074] [ETL-Process.Extract] - Tipo de contenido inesperado: text/html; charset=utf-8
+[2025-03-12 12:39:02.945] ERROR [14074] [ETL-Process.Extract] - Error descargando archivo para Cajamarca - Norte: El contenido descargado para Cajamarca - Norte no es un archivo Excel válido
+Traceback (most recent call last):
+  File "/workspaces/ETL-Asistencia/src/etl/extract.py", line 198, in download_and_process_file
+    raise ValueError(f"El contenido descargado para {sede} no es un archivo Excel válido")
+ValueError: El contenido descargado para Cajamarca - Norte no es un archivo Excel válido
+[2025-03-12 12:39:02.947] ERROR [14074] [ETL-Process.Extract] - Headers de respuesta: {'Cache-Control': 'no-store, no-cache', 'Pragma': 'no-cache', 'Content-Type': 'text/html; charset=utf-8', 'Content-Encoding': 'gzip', 'Expires': 'Wed, 12 Mar 2025 12:38:02 GMT', 'Vary': 'Accept-Encoding', 'P3P': 'CP="DSP CUR OTPi IND OTRi ONL FIN"', 'X-DNS-Prefetch-Control': 'on', 'Link': '<https://logincdn.msauth.net>; rel=preconnect; crossorigin, <https://acctcdn.msauth.net>; rel=preconnect; crossorigin, <https://acctcdn.msftauth.net>; rel=preconnect; crossorigin, <https://acctcdn.msauth.net/>; rel=dns-prefetch, <https://acctcdn.msftauth.net/>; rel=dns-prefetch, <https://acctcdnmsftuswe2.azureedge.net/>; rel=dns-prefetch, <https://logincdn.msauth.net/>; rel=dns-prefetch, <https://logincdn.msftauth.net/>; rel=dns-prefetch, <https://lgincdnmsftuswe2.azureedge.net/>; rel=dns-prefetch', 'Content-Security-Policy': "object-src 'none'; base-uri 'self'; script-src 'self' 'nonce-Je3NsuiE3o3qgY+YYjOZbiKoxqJ9hHcDIqOU0FpUD8s=' https://js.monitor.azure.com https://logincdn.msauth.net https://logincdn.msftauth.net https://lgincdnvzeuno.azureedge.net https://lgincdnmsftuswe2.azureedge.net https://*.live.com https://*.microsoft.com https://*.office.net https://*.bing.com https://*.sharepointonline.com 'report-sample'; img-src 'self' https://js.monitor.azure.com https://logincdn.msauth.net https://logincdn.msftauth.net https://lgincdnvzeuno.azureedge.net https://lgincdnmsftuswe2.azureedge.net https://*.live.com https://*.microsoft.com https://*.office.net https://*.bing.com https://*.sharepointonline.com; report-uri https://csp.microsoft.com/report/MSA-UX-All", 'Referrer-Policy': 'strict-origin-when-cross-origin', 'x-ms-route-info': 'C527_BL2', 'x-ms-request-id': '3a6f3489-0b23-4463-8053-0ce2bc5ebf64', 'PPServer': 'PPV: 30 H: BL02EPF0001D85D V: 0', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-XSS-Protection': '1; mode=block', 'Set-Cookie': 'uaid=fe99c4c343a64de19b484d817025efb7; domain=login.live.com; Secure; path=/; SameSite=None; HttpOnly, MSPRequ=id=250206&lt=1741783142&co=2; domain=login.live.com; Secure; path=/; SameSite=None; HttpOnly, MSPOK=$uuid-a779586e-e256-4c86-81c1-2dbe2bb6429a$uuid-3d8f8e1c-8e82-4d00-adfd-7d3f6956d805; domain=login.live.com; Secure; path=/; SameSite=None; HttpOnly, OParams=11O.Di!jBDAD24cQnd8GGTgmURYsftjT5R8JN7A8icjJ*dV4gIoF9ANCjepO8VAfdG68Sk2qbJLDSalu6dLP!jWGt3uXHmRetjGdHRqOdMH5BdCHhpegBUMwX6OK2fnGaXRUkYzIMJhs5xjMsJMf4MzWqrFJ4zNESZRDks64qUfhBUhPGiYkMvLyu!OlZod91fFxCVqLUmZttLdxWhw3vXt1*4nW80dTrT6DGNcdha4ro7K6wEWn3WFKfD*52Efa*k4MlrF78P5SAVKCLr5hy8xGq6rKNkxq!htdiVytQE*n*Wcfz!7H4*ei6Ft8cGGhTbiQBIWqqJUxrUTxvT7I5cUHF0Ft93JQDEiRADlv38P6EM1HbURlA4CRTfFgMMvR1pbAnLOEqkm0j8RDceMKPVErMx5Pm1V1p1vRaxvEl9511zunQOMH1WRwp0xZYrNh*FyywafJNVDZCLX88NvXcz26w8c8zuDRm06jmjeP9rQqSplG; domain=login.live.com; Secure; path=/; SameSite=None; HttpOnly', 'Date': 'Wed, 12 Mar 2025 12:39:02 GMT', 'Content-Length': '11652'}
+[2025-03-12 12:39:02.947] ERROR [14074] [ETL-Process.Extract] - URL de respuesta: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=173&ct=1741783142&rver=7.5.2205.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fonedrive.live.com%2Fedit%3Fid%3D826F6B2125AB2DBC!3442%26resid%3D826F6B2125AB2DBC!3442%26ithint%3Dfile%252Cxlsx%26authkey%3D!ANh0BrnhjdQRl8g%26wdo%3D2%26cid%3D826f6b2125ab2dbc&lc=1033&id=250206&cbcxt=sky&cbcxt=sky&download=1
+[2025-03-12 12:39:02.948] INFO [14074] [ETL-Process.Extract] - Procesando sede: Cerro de Pasco (Nivel 1A)
+[2025-03-12 12:39:02.948] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Cerro de Pasco
+[2025-03-12 12:39:05.019] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:05.019] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Cerro de Pasco
+[2025-03-12 12:39:05.020] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Cerro_de_Pasco-1A-20250312_123847.xlsx
+[2025-03-12 12:39:05.020] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Cerro de Pasco
+[2025-03-12 12:39:05.020] INFO [14074] [ETL-Process.Extract] - Procesando sede: Chiclayo (Nivel 3)
+[2025-03-12 12:39:05.020] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Chiclayo
+[2025-03-12 12:39:06.611] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:06.611] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Chiclayo
+[2025-03-12 12:39:06.613] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Chiclayo-3-20250312_123847.xlsx
+[2025-03-12 12:39:06.613] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Chiclayo
+[2025-03-12 12:39:06.613] INFO [14074] [ETL-Process.Extract] - Procesando sede: Cusco (Nivel 6)
+[2025-03-12 12:39:06.613] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Cusco
+[2025-03-12 12:39:07.933] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:07.934] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Cusco
+[2025-03-12 12:39:07.935] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Cusco-6-20250312_123847.xlsx
+[2025-03-12 12:39:07.935] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Cusco
+[2025-03-12 12:39:07.935] INFO [14074] [ETL-Process.Extract] - Procesando sede: Huancayo (Nivel 6)
+[2025-03-12 12:39:07.935] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Huancayo
+[2025-03-12 12:39:09.781] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:09.781] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Huancayo
+[2025-03-12 12:39:09.782] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Huancayo-6-20250312_123847.xlsx
+[2025-03-12 12:39:09.783] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Huancayo
+[2025-03-12 12:39:09.783] INFO [14074] [ETL-Process.Extract] - Procesando sede: Huancayo - El Tambo (Nivel 1B)
+[2025-03-12 12:39:09.783] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Huancayo - El Tambo
+[2025-03-12 12:39:11.216] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:11.216] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Huancayo - El Tambo
+[2025-03-12 12:39:11.218] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Huancayo_El_Tambo-1B-20250312_123847.xlsx
+[2025-03-12 12:39:11.218] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Huancayo - El Tambo
+[2025-03-12 12:39:11.218] INFO [14074] [ETL-Process.Extract] - Procesando sede: Huancayo - Julio Sumar (Nivel 1A)
+[2025-03-12 12:39:11.218] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Huancayo - Julio Sumar
+[2025-03-12 12:39:12.860] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:12.860] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Huancayo - Julio Sumar
+[2025-03-12 12:39:12.861] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Huancayo_Julio_Sumar-1A-20250312_123847.xlsx
+[2025-03-12 12:39:12.862] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Huancayo - Julio Sumar
+[2025-03-12 12:39:12.862] INFO [14074] [ETL-Process.Extract] - Procesando sede: Huanuco (Nivel 5)
+[2025-03-12 12:39:12.862] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Huanuco
+[2025-03-12 12:39:14.713] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:14.713] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Huanuco
+[2025-03-12 12:39:14.714] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Huanuco-5-20250312_123847.xlsx
+[2025-03-12 12:39:14.715] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Huanuco
+[2025-03-12 12:39:14.715] INFO [14074] [ETL-Process.Extract] - Procesando sede: Huaraz (Nivel 4)
+[2025-03-12 12:39:14.715] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Huaraz
+[2025-03-12 12:39:16.427] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:16.427] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Huaraz
+[2025-03-12 12:39:16.428] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Huaraz-4-20250312_123847.xlsx
+[2025-03-12 12:39:16.428] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Huaraz
+[2025-03-12 12:39:16.428] INFO [14074] [ETL-Process.Extract] - Procesando sede: Ica (Nivel 2)
+[2025-03-12 12:39:16.428] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Ica
+[2025-03-12 12:39:17.970] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:17.970] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Ica
+[2025-03-12 12:39:17.972] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Ica-2-20250312_123847.xlsx
+[2025-03-12 12:39:17.972] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Ica
+[2025-03-12 12:39:17.972] INFO [14074] [ETL-Process.Extract] - Procesando sede: Ilo (Nivel 3)
+[2025-03-12 12:39:17.972] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Ilo
+[2025-03-12 12:39:19.081] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:19.081] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Ilo
+[2025-03-12 12:39:19.082] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Ilo-3-20250312_123847.xlsx
+[2025-03-12 12:39:19.082] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Ilo
+[2025-03-12 12:39:19.083] INFO [14074] [ETL-Process.Extract] - Procesando sede: Iquitos (Nivel 4)
+[2025-03-12 12:39:19.083] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Iquitos
+[2025-03-12 12:39:21.147] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:21.147] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Iquitos
+[2025-03-12 12:39:21.148] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Iquitos-4-20250312_123847.xlsx
+[2025-03-12 12:39:21.148] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Iquitos
+[2025-03-12 12:39:21.148] INFO [14074] [ETL-Process.Extract] - Procesando sede: Juliaca (Nivel 3)
+[2025-03-12 12:39:21.148] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Juliaca
+[2025-03-12 12:39:22.347] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:22.347] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Juliaca
+[2025-03-12 12:39:22.349] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Juliaca-3-20250312_123847.xlsx
+[2025-03-12 12:39:22.349] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Juliaca
+[2025-03-12 12:39:22.349] INFO [14074] [ETL-Process.Extract] - Procesando sede: Lima - Breña (Nivel 6)
+[2025-03-12 12:39:22.349] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Lima - Breña
+[2025-03-12 12:39:23.738] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:23.738] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Lima - Breña
+[2025-03-12 12:39:23.741] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Lima_Breña-6-20250312_123847.xlsx
+[2025-03-12 12:39:23.741] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Lima - Breña
+[2025-03-12 12:39:23.741] INFO [14074] [ETL-Process.Extract] - Procesando sede: Lima - Jesús María (Nivel 1B)
+[2025-03-12 12:39:23.742] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Lima - Jesús María
+[2025-03-12 12:39:25.372] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:25.372] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Lima - Jesús María
+[2025-03-12 12:39:25.373] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Lima_Jesús_María-1B-20250312_123847.xlsx
+[2025-03-12 12:39:25.374] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Lima - Jesús María
+[2025-03-12 12:39:25.374] INFO [14074] [ETL-Process.Extract] - Procesando sede: Lima - La Molina (Nivel 2)
+[2025-03-12 12:39:25.374] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Lima - La Molina
+[2025-03-12 12:39:27.100] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:27.100] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Lima - La Molina
+[2025-03-12 12:39:27.101] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Lima_La_Molina-2-20250312_123847.xlsx
+[2025-03-12 12:39:27.101] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Lima - La Molina
+[2025-03-12 12:39:27.101] INFO [14074] [ETL-Process.Extract] - Procesando sede: Lima - Pueblo Libre (Nivel 3)
+[2025-03-12 12:39:27.102] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Lima - Pueblo Libre
+[2025-03-12 12:39:28.650] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:28.650] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Lima - Pueblo Libre
+[2025-03-12 12:39:28.651] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Lima_Pueblo_Libre-3-20250312_123847.xlsx
+[2025-03-12 12:39:28.652] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Lima - Pueblo Libre
+[2025-03-12 12:39:28.652] INFO [14074] [ETL-Process.Extract] - Procesando sede: Lima - San Miguel (Nivel 1B)
+[2025-03-12 12:39:28.652] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Lima - San Miguel
+[2025-03-12 12:39:29.983] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:29.983] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Lima - San Miguel
+[2025-03-12 12:39:29.984] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Lima_San_Miguel-1B-20250312_123847.xlsx
+[2025-03-12 12:39:29.985] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Lima - San Miguel
+[2025-03-12 12:39:29.985] INFO [14074] [ETL-Process.Extract] - Procesando sede: Pisco (Nivel 3)
+[2025-03-12 12:39:29.985] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Pisco
+[2025-03-12 12:39:30.463] WARNING [14074] [ETL-Process.Extract] - Tipo de contenido inesperado: text/html; charset=utf-8
+[2025-03-12 12:39:30.522] ERROR [14074] [ETL-Process.Extract] - Error descargando archivo para Pisco: El contenido descargado para Pisco no es un archivo Excel válido
+Traceback (most recent call last):
+  File "/workspaces/ETL-Asistencia/src/etl/extract.py", line 198, in download_and_process_file
+    raise ValueError(f"El contenido descargado para {sede} no es un archivo Excel válido")
+ValueError: El contenido descargado para Pisco no es un archivo Excel válido
+[2025-03-12 12:39:30.522] ERROR [14074] [ETL-Process.Extract] - Headers de respuesta: {'Cache-Control': 'no-store, no-cache', 'Pragma': 'no-cache', 'Content-Type': 'text/html; charset=utf-8', 'Content-Encoding': 'gzip', 'Expires': 'Wed, 12 Mar 2025 12:38:30 GMT', 'Vary': 'Accept-Encoding', 'P3P': 'CP="DSP CUR OTPi IND OTRi ONL FIN"', 'X-DNS-Prefetch-Control': 'on', 'Link': '<https://logincdn.msauth.net>; rel=preconnect; crossorigin, <https://acctcdn.msauth.net>; rel=preconnect; crossorigin, <https://acctcdn.msftauth.net>; rel=preconnect; crossorigin, <https://acctcdn.msauth.net/>; rel=dns-prefetch, <https://acctcdn.msftauth.net/>; rel=dns-prefetch, <https://acctcdnmsftuswe2.azureedge.net/>; rel=dns-prefetch, <https://logincdn.msauth.net/>; rel=dns-prefetch, <https://logincdn.msftauth.net/>; rel=dns-prefetch, <https://lgincdnmsftuswe2.azureedge.net/>; rel=dns-prefetch', 'Content-Security-Policy': "object-src 'none'; base-uri 'self'; script-src 'self' 'nonce-KGSWKuU1mhMbXIx4arpAW+KFyVk5Zqcl1T5kMf/jfSE=' https://js.monitor.azure.com https://logincdn.msauth.net https://logincdn.msftauth.net https://lgincdnvzeuno.azureedge.net https://lgincdnmsftuswe2.azureedge.net https://*.live.com https://*.microsoft.com https://*.office.net https://*.bing.com https://*.sharepointonline.com 'report-sample'; img-src 'self' https://js.monitor.azure.com https://logincdn.msauth.net https://logincdn.msftauth.net https://lgincdnvzeuno.azureedge.net https://lgincdnmsftuswe2.azureedge.net https://*.live.com https://*.microsoft.com https://*.office.net https://*.bing.com https://*.sharepointonline.com; report-uri https://csp.microsoft.com/report/MSA-UX-All", 'Referrer-Policy': 'strict-origin-when-cross-origin', 'x-ms-route-info': 'C550_SN1', 'x-ms-request-id': '55478096-dd5d-404e-9683-69e7216fecd7', 'PPServer': 'PPV: 30 H: SN1PEPF0002FA00 V: 0', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-XSS-Protection': '1; mode=block', 'Set-Cookie': 'uaid=3a96fa812b3d4663a078f5b9d5ad126c; domain=login.live.com; Secure; path=/; SameSite=None; HttpOnly, MSPRequ=id=250206&lt=1741783170&co=2; domain=login.live.com; Secure; path=/; SameSite=None; HttpOnly, MSPOK=$uuid-a1b852ec-1425-4286-81c1-e1f0f7a1dd1f$uuid-b80292c1-3ff9-4b04-8a58-70757553b39d; domain=login.live.com; Secure; path=/; SameSite=None; HttpOnly, OParams=11O.DoGXuW75aDuaEpbAf7!deq3W9lC3Jizag3dUtw7MhuDm7QHGxbSTeoaUeiY3CTNei1BRwebXwJhaAvlm!jnBV!m2kkabZNkUUGyCvRmlnxU6DCl1doi5YwavC2Gdqz4dvczvsj5PTdcXsjl!HWZdosUDVZu795kcRsBOB!i9sNKRpRb**BpGl2GpdiiJzwQss31x3RTmyqyZDLHCfrN2c1FXPyGf1e8BRZbJ6V2ujO1Cr4iN*mZtBv9QIIHXnvMl4BATf!n2LAn8VdZ282DbaOTrKumR1FLUU9rBoMX1FfAFyIEiM2fhVXsq7L5HtYr*Xj2o6lQTHCpT!jCknJX9p2!7jOdwJq!10u4OF1yRlMfke1Mx!vEykpz1cMdNOvszC6ONT1CpP5AjwWeWKdTdm76iLD8YfmhxaTg1bpIwnV4RbaHLPx!uN4QVlhzDby6900CbfNlyoPIKASSl1FVR1eKOYXnA5g4abo!c0Uyf2FdS; domain=login.live.com; Secure; path=/; SameSite=None; HttpOnly', 'Date': 'Wed, 12 Mar 2025 12:39:29 GMT', 'Content-Length': '11655'}
+[2025-03-12 12:39:30.523] ERROR [14074] [ETL-Process.Extract] - URL de respuesta: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=173&ct=1741783170&rver=7.5.2205.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fonedrive.live.com%2Fedit%3Fid%3D826F6B2125AB2DBC!3479%26resid%3D826F6B2125AB2DBC!3479%26ithint%3Dfile%252Cxlsx%26authkey%3D!AKRPr1zLJ0V4IVQ%26wdo%3D2%26cid%3D826f6b2125ab2dbc&lc=1033&id=250206&cbcxt=sky&cbcxt=sky&download=1
+[2025-03-12 12:39:30.523] INFO [14074] [ETL-Process.Extract] - Procesando sede: Pucallpa (Nivel 4)
+[2025-03-12 12:39:30.523] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Pucallpa
+[2025-03-12 12:39:32.265] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:32.265] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Pucallpa
+[2025-03-12 12:39:32.266] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Pucallpa-4-20250312_123847.xlsx
+[2025-03-12 12:39:32.266] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Pucallpa
+[2025-03-12 12:39:32.266] INFO [14074] [ETL-Process.Extract] - Procesando sede: Puno (Nivel 2)
+[2025-03-12 12:39:32.266] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Puno
+[2025-03-12 12:39:33.770] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:33.770] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Puno
+[2025-03-12 12:39:33.771] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Puno-2-20250312_123847.xlsx
+[2025-03-12 12:39:33.771] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Puno
+[2025-03-12 12:39:33.771] INFO [14074] [ETL-Process.Extract] - Procesando sede: Tacna (Nivel 4)
+[2025-03-12 12:39:33.772] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Tacna
+[2025-03-12 12:39:35.257] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:35.257] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Tacna
+[2025-03-12 12:39:35.259] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Tacna-4-20250312_123847.xlsx
+[2025-03-12 12:39:35.259] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Tacna
+[2025-03-12 12:39:35.260] INFO [14074] [ETL-Process.Extract] - Procesando sede: Tacna - Av. Ejercito (Nivel 2)
+[2025-03-12 12:39:35.260] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Tacna - Av. Ejercito
+[2025-03-12 12:39:36.731] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:36.731] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Tacna - Av. Ejercito
+[2025-03-12 12:39:36.732] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Tacna_Av._Ejercito-2-20250312_123847.xlsx
+[2025-03-12 12:39:36.732] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Tacna - Av. Ejercito
+[2025-03-12 12:39:36.732] INFO [14074] [ETL-Process.Extract] - Procesando sede: Tacna - Gregorio Albarracin (Nivel 1A)
+[2025-03-12 12:39:36.732] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Tacna - Gregorio Albarracin
+[2025-03-12 12:39:38.039] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:38.040] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Tacna - Gregorio Albarracin
+[2025-03-12 12:39:38.041] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Tacna_Gregorio_Albarracin-1A-20250312_123847.xlsx
+[2025-03-12 12:39:38.041] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Tacna - Gregorio Albarracin
+[2025-03-12 12:39:38.041] INFO [14074] [ETL-Process.Extract] - Procesando sede: Tarapoto (Nivel 2)
+[2025-03-12 12:39:38.041] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Tarapoto
+[2025-03-12 12:39:39.571] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:39.571] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Tarapoto
+[2025-03-12 12:39:39.572] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Tarapoto-2-20250312_123847.xlsx
+[2025-03-12 12:39:39.572] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Tarapoto
+[2025-03-12 12:39:39.572] INFO [14074] [ETL-Process.Extract] - Procesando sede: Trujillo (Nivel 5)
+[2025-03-12 12:39:39.572] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Trujillo
+[2025-03-12 12:39:41.464] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:41.464] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Trujillo
+[2025-03-12 12:39:41.465] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Trujillo-5-20250312_123847.xlsx
+[2025-03-12 12:39:41.465] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Trujillo
+[2025-03-12 12:39:41.465] INFO [14074] [ETL-Process.Extract] - Procesando sede: Trujillo - La Merced (Nivel 1B)
+[2025-03-12 12:39:41.465] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Trujillo - La Merced
+[2025-03-12 12:39:43.073] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:43.073] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Trujillo - La Merced
+[2025-03-12 12:39:43.074] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Trujillo_La_Merced-1B-20250312_123847.xlsx
+[2025-03-12 12:39:43.074] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Trujillo - La Merced
+[2025-03-12 12:39:43.074] INFO [14074] [ETL-Process.Extract] - Procesando sede: Trujillo - La Noria (Nivel 1A)
+[2025-03-12 12:39:43.074] INFO [14074] [ETL-Process.Extract] - Iniciando descarga para sede: Trujillo - La Noria
+[2025-03-12 12:39:44.540] INFO [14074] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 12:39:44.541] INFO [14074] [ETL-Process.Extract] - Archivo descargado correctamente para Trujillo - La Noria
+[2025-03-12 12:39:44.542] INFO [14074] [ETL-Process.Extract] - Archivo guardado: Trujillo_La_Noria-1A-20250312_123847.xlsx
+[2025-03-12 12:39:44.542] INFO [14074] [ETL-Process.Extract] - Procesamiento exitoso para Trujillo - La Noria
+[2025-03-12 12:39:44.542] INFO [14074] [ETL-Process.Extract] - Proceso de descarga completado. 34 de 36 archivos procesados
+[2025-03-12 12:39:44.542] INFO [14074] [ETL-Process.Extract] - === PROCESO DE EXTRACCIÓN COMPLETADO (56.777 segundos) ===
+[2025-03-12 12:39:44.542] INFO [14074] [ETL-Process] - Extracción completada en 56.777 segundos
+[2025-03-12 12:39:44.542] INFO [14074] [ETL-Process] - Archivos guardados en: /workspaces/ETL-Asistencia/./data/downloads/data_probacionismo_20250312_123847
+[2025-03-12 12:39:44.542] INFO [14074] [ETL-Process] - Archivos descargados: ['Arequipa-5-20250312_123847.xlsx', 'Arequipa_Cerro_Colorado-1A-20250312_123847.xlsx', 'Arequipa_Lambramani-1B-20250312_123847.xlsx', 'Arequipa_Umacollo-1A-20250312_123847.xlsx', 'Ayacucho-6-20250312_123847.xlsx', 'Ayacucho_Norte-1B-20250312_123847.xlsx', 'Cajamarca-6-20250312_123847.xlsx', 'Cajamarca_Centro_Histórico-1B-20250312_123847.xlsx', 'Cerro_de_Pasco-1A-20250312_123847.xlsx', 'Chiclayo-3-20250312_123847.xlsx', 'Cusco-6-20250312_123847.xlsx', 'Huancayo-6-20250312_123847.xlsx', 'Huancayo_El_Tambo-1B-20250312_123847.xlsx', 'Huancayo_Julio_Sumar-1A-20250312_123847.xlsx', 'Huanuco-5-20250312_123847.xlsx', 'Huaraz-4-20250312_123847.xlsx', 'Ica-2-20250312_123847.xlsx', 'Ilo-3-20250312_123847.xlsx', 'Iquitos-4-20250312_123847.xlsx', 'Juliaca-3-20250312_123847.xlsx', 'Lima_Breña-6-20250312_123847.xlsx', 'Lima_Jesús_María-1B-20250312_123847.xlsx', 'Lima_La_Molina-2-20250312_123847.xlsx', 'Lima_Pueblo_Libre-3-20250312_123847.xlsx', 'Lima_San_Miguel-1B-20250312_123847.xlsx', 'Pucallpa-4-20250312_123847.xlsx', 'Puno-2-20250312_123847.xlsx', 'Tacna-4-20250312_123847.xlsx', 'Tacna_Av._Ejercito-2-20250312_123847.xlsx', 'Tacna_Gregorio_Albarracin-1A-20250312_123847.xlsx', 'Tarapoto-2-20250312_123847.xlsx', 'Trujillo-5-20250312_123847.xlsx', 'Trujillo_La_Merced-1B-20250312_123847.xlsx', 'Trujillo_La_Noria-1A-20250312_123847.xlsx']
+[2025-03-12 12:39:44.543] INFO [14074] [ETL-Process] - Iniciando proceso de transformación...
+[2025-03-12 12:39:44.543] INFO [14074] [ETL-Process.Transform] - Iniciando proceso de transformación de datos
+[2025-03-12 12:39:44.543] INFO [14074] [ETL-Process.Transform] - Procesando 34 archivos de /workspaces/ETL-Asistencia/./data/downloads/data_probacionismo_20250312_123847
+[2025-03-12 12:39:44.543] INFO [14074] [ETL-Process.Transform] - Iniciando procesamiento de 34 archivos
+[2025-03-12 12:39:44.543] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Arequipa-5-20250312_123847.xlsx
+[2025-03-12 12:39:44.543] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Arequipa-5-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:44.694] INFO [14074] [ETL-Process.Transform] - Filtrados 1 registros pre-inscritos
+[2025-03-12 12:39:44.696] INFO [14074] [ETL-Process.Transform] - Se eliminaron 80 filas vacías
+[2025-03-12 12:39:44.709] INFO [14074] [ETL-Process.Transform] - Archivo Arequipa-5-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:44.709] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Arequipa_Cerro_Colorado-1A-20250312_123847.xlsx
+[2025-03-12 12:39:44.710] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Arequipa_Cerro_Colorado-1A-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:44.811] INFO [14074] [ETL-Process.Transform] - Filtrados 1 registros pre-inscritos
+[2025-03-12 12:39:44.812] INFO [14074] [ETL-Process.Transform] - Se eliminaron 92 filas vacías
+[2025-03-12 12:39:44.822] INFO [14074] [ETL-Process.Transform] - Archivo Arequipa_Cerro_Colorado-1A-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:44.822] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Arequipa_Lambramani-1B-20250312_123847.xlsx
+[2025-03-12 12:39:44.822] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Arequipa_Lambramani-1B-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:44.927] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:44.928] INFO [14074] [ETL-Process.Transform] - Se eliminaron 87 filas vacías
+[2025-03-12 12:39:44.936] INFO [14074] [ETL-Process.Transform] - Archivo Arequipa_Lambramani-1B-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:44.936] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Arequipa_Umacollo-1A-20250312_123847.xlsx
+[2025-03-12 12:39:44.936] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Arequipa_Umacollo-1A-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:45.043] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:45.044] INFO [14074] [ETL-Process.Transform] - Se eliminaron 76 filas vacías
+[2025-03-12 12:39:45.055] INFO [14074] [ETL-Process.Transform] - Archivo Arequipa_Umacollo-1A-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:45.055] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Ayacucho-6-20250312_123847.xlsx
+[2025-03-12 12:39:45.055] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Ayacucho-6-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:45.205] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:45.206] INFO [14074] [ETL-Process.Transform] - Se eliminaron 28 filas vacías
+[2025-03-12 12:39:45.230] INFO [14074] [ETL-Process.Transform] - Archivo Ayacucho-6-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:45.230] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Ayacucho_Norte-1B-20250312_123847.xlsx
+[2025-03-12 12:39:45.230] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Ayacucho_Norte-1B-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:45.371] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:45.373] INFO [14074] [ETL-Process.Transform] - Se eliminaron 81 filas vacías
+[2025-03-12 12:39:45.382] INFO [14074] [ETL-Process.Transform] - Archivo Ayacucho_Norte-1B-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:45.383] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Cajamarca-6-20250312_123847.xlsx
+[2025-03-12 12:39:45.383] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Cajamarca-6-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:45.494] INFO [14074] [ETL-Process.Transform] - Filtrados 2 registros pre-inscritos
+[2025-03-12 12:39:45.496] INFO [14074] [ETL-Process.Transform] - Se eliminaron 15 filas vacías
+[2025-03-12 12:39:45.525] INFO [14074] [ETL-Process.Transform] - Archivo Cajamarca-6-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:45.525] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Cajamarca_Centro_Histórico-1B-20250312_123847.xlsx
+[2025-03-12 12:39:45.525] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Cajamarca_Centro_Histórico-1B-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:45.631] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:45.632] INFO [14074] [ETL-Process.Transform] - Se eliminaron 68 filas vacías
+[2025-03-12 12:39:45.641] INFO [14074] [ETL-Process.Transform] - Archivo Cajamarca_Centro_Histórico-1B-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:45.642] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Cerro_de_Pasco-1A-20250312_123847.xlsx
+[2025-03-12 12:39:45.642] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Cerro_de_Pasco-1A-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:45.746] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:45.747] INFO [14074] [ETL-Process.Transform] - Se eliminaron 95 filas vacías
+[2025-03-12 12:39:45.753] INFO [14074] [ETL-Process.Transform] - Archivo Cerro_de_Pasco-1A-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:45.753] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Chiclayo-3-20250312_123847.xlsx
+[2025-03-12 12:39:45.753] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Chiclayo-3-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:45.900] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:45.902] INFO [14074] [ETL-Process.Transform] - Se eliminaron 68 filas vacías
+[2025-03-12 12:39:45.915] INFO [14074] [ETL-Process.Transform] - Archivo Chiclayo-3-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:45.916] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Cusco-6-20250312_123847.xlsx
+[2025-03-12 12:39:45.916] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Cusco-6-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:46.024] INFO [14074] [ETL-Process.Transform] - Filtrados 8 registros pre-inscritos
+[2025-03-12 12:39:46.025] INFO [14074] [ETL-Process.Transform] - Se eliminaron 39 filas vacías
+[2025-03-12 12:39:46.035] INFO [14074] [ETL-Process.Transform] - Archivo Cusco-6-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:46.035] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huancayo-6-20250312_123847.xlsx
+[2025-03-12 12:39:46.036] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huancayo-6-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:46.149] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:46.151] INFO [14074] [ETL-Process.Transform] - Se eliminaron 56 filas vacías
+[2025-03-12 12:39:46.164] INFO [14074] [ETL-Process.Transform] - Archivo Huancayo-6-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:46.164] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huancayo_El_Tambo-1B-20250312_123847.xlsx
+[2025-03-12 12:39:46.164] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huancayo_El_Tambo-1B-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:46.273] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:46.274] INFO [14074] [ETL-Process.Transform] - Se eliminaron 73 filas vacías
+[2025-03-12 12:39:46.283] INFO [14074] [ETL-Process.Transform] - Archivo Huancayo_El_Tambo-1B-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:46.283] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huancayo_Julio_Sumar-1A-20250312_123847.xlsx
+[2025-03-12 12:39:46.283] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huancayo_Julio_Sumar-1A-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:46.433] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:46.434] INFO [14074] [ETL-Process.Transform] - Se eliminaron 88 filas vacías
+[2025-03-12 12:39:46.441] INFO [14074] [ETL-Process.Transform] - Archivo Huancayo_Julio_Sumar-1A-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:46.441] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huanuco-5-20250312_123847.xlsx
+[2025-03-12 12:39:46.441] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huanuco-5-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:46.559] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:46.560] INFO [14074] [ETL-Process.Transform] - Se eliminaron 4 filas vacías
+[2025-03-12 12:39:46.572] INFO [14074] [ETL-Process.Transform] - Archivo Huanuco-5-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:46.572] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huaraz-4-20250312_123847.xlsx
+[2025-03-12 12:39:46.572] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Huaraz-4-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:46.681] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:46.682] INFO [14074] [ETL-Process.Transform] - Se eliminaron 67 filas vacías
+[2025-03-12 12:39:46.696] INFO [14074] [ETL-Process.Transform] - Archivo Huaraz-4-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:46.696] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Ica-2-20250312_123847.xlsx
+[2025-03-12 12:39:46.696] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Ica-2-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:46.808] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:46.810] INFO [14074] [ETL-Process.Transform] - Se eliminaron 82 filas vacías
+[2025-03-12 12:39:46.817] INFO [14074] [ETL-Process.Transform] - Archivo Ica-2-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:46.817] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Ilo-3-20250312_123847.xlsx
+[2025-03-12 12:39:46.817] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Ilo-3-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:46.958] ERROR [14074] [ETL-Process.Transform] - Error procesando Excel /workspaces/ETL-Asistencia/./data/downloads/data_probacionismo_20250312_123847/Ilo-3-20250312_123847.xlsx: 'Tipo Incrito'
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 191, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 234, in pandas._libs.index.IndexEngine._get_loc_duplicates
+  File "index.pyx", line 242, in pandas._libs.index.IndexEngine._maybe_get_bool_indexer
+  File "index.pyx", line 134, in pandas._libs.index._unpack_bool_indexer
+KeyError: 'Tipo Incrito'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/workspaces/ETL-Asistencia/src/etl/Transform.py", line 35, in procesar_excel
+    df = df[df['Tipo Incrito'] != 'Pre-Inscrito']
+            ~~^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Tipo Incrito'
+[2025-03-12 12:39:46.963] ERROR [14074] [ETL-Process.Transform] - Error procesando archivo /workspaces/ETL-Asistencia/./data/downloads/data_probacionismo_20250312_123847/Ilo-3-20250312_123847.xlsx: 'Tipo Incrito'
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 191, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 234, in pandas._libs.index.IndexEngine._get_loc_duplicates
+  File "index.pyx", line 242, in pandas._libs.index.IndexEngine._maybe_get_bool_indexer
+  File "index.pyx", line 134, in pandas._libs.index._unpack_bool_indexer
+KeyError: 'Tipo Incrito'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/workspaces/ETL-Asistencia/src/etl/Transform.py", line 82, in procesar_archivos
+    df = procesar_excel(archivo, hoja_excel)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/ETL-Asistencia/src/etl/Transform.py", line 35, in procesar_excel
+    df = df[df['Tipo Incrito'] != 'Pre-Inscrito']
+            ~~^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Tipo Incrito'
+[2025-03-12 12:39:46.964] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Iquitos-4-20250312_123847.xlsx
+[2025-03-12 12:39:46.964] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Iquitos-4-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:47.102] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:47.103] INFO [14074] [ETL-Process.Transform] - Se eliminaron 67 filas vacías
+[2025-03-12 12:39:47.117] INFO [14074] [ETL-Process.Transform] - Archivo Iquitos-4-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:47.118] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Juliaca-3-20250312_123847.xlsx
+[2025-03-12 12:39:47.118] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Juliaca-3-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:47.233] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:47.235] INFO [14074] [ETL-Process.Transform] - Se eliminaron 91 filas vacías
+[2025-03-12 12:39:47.242] INFO [14074] [ETL-Process.Transform] - Archivo Juliaca-3-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:47.242] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_Breña-6-20250312_123847.xlsx
+[2025-03-12 12:39:47.242] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_Breña-6-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:47.414] INFO [14074] [ETL-Process.Transform] - Filtrados 3 registros pre-inscritos
+[2025-03-12 12:39:47.415] INFO [14074] [ETL-Process.Transform] - Se eliminaron 17 filas vacías
+[2025-03-12 12:39:47.428] INFO [14074] [ETL-Process.Transform] - Archivo Lima_Breña-6-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:47.428] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_Jesús_María-1B-20250312_123847.xlsx
+[2025-03-12 12:39:47.429] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_Jesús_María-1B-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:47.598] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:47.600] INFO [14074] [ETL-Process.Transform] - Se eliminaron 90 filas vacías
+[2025-03-12 12:39:47.608] INFO [14074] [ETL-Process.Transform] - Archivo Lima_Jesús_María-1B-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:47.608] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_La_Molina-2-20250312_123847.xlsx
+[2025-03-12 12:39:47.608] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_La_Molina-2-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:47.716] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:47.717] INFO [14074] [ETL-Process.Transform] - Se eliminaron 87 filas vacías
+[2025-03-12 12:39:47.722] INFO [14074] [ETL-Process.Transform] - Archivo Lima_La_Molina-2-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:47.722] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_Pueblo_Libre-3-20250312_123847.xlsx
+[2025-03-12 12:39:47.722] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_Pueblo_Libre-3-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:47.833] INFO [14074] [ETL-Process.Transform] - Filtrados 6 registros pre-inscritos
+[2025-03-12 12:39:47.835] INFO [14074] [ETL-Process.Transform] - Se eliminaron 60 filas vacías
+[2025-03-12 12:39:47.852] INFO [14074] [ETL-Process.Transform] - Archivo Lima_Pueblo_Libre-3-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:47.852] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_San_Miguel-1B-20250312_123847.xlsx
+[2025-03-12 12:39:47.852] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Lima_San_Miguel-1B-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:47.957] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:47.959] INFO [14074] [ETL-Process.Transform] - Se eliminaron 68 filas vacías
+[2025-03-12 12:39:47.969] INFO [14074] [ETL-Process.Transform] - Archivo Lima_San_Miguel-1B-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:47.969] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Pucallpa-4-20250312_123847.xlsx
+[2025-03-12 12:39:47.969] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Pucallpa-4-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:48.079] INFO [14074] [ETL-Process.Transform] - Filtrados 13 registros pre-inscritos
+[2025-03-12 12:39:48.080] INFO [14074] [ETL-Process.Transform] - Se eliminaron 65 filas vacías
+[2025-03-12 12:39:48.088] INFO [14074] [ETL-Process.Transform] - Archivo Pucallpa-4-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:48.088] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Puno-2-20250312_123847.xlsx
+[2025-03-12 12:39:48.088] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Puno-2-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:48.238] INFO [14074] [ETL-Process.Transform] - Filtrados 6 registros pre-inscritos
+[2025-03-12 12:39:48.239] INFO [14074] [ETL-Process.Transform] - Se eliminaron 82 filas vacías
+[2025-03-12 12:39:48.247] INFO [14074] [ETL-Process.Transform] - Archivo Puno-2-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:48.247] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Tacna-4-20250312_123847.xlsx
+[2025-03-12 12:39:48.247] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Tacna-4-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:48.355] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:48.357] INFO [14074] [ETL-Process.Transform] - Se eliminaron 61 filas vacías
+[2025-03-12 12:39:48.373] INFO [14074] [ETL-Process.Transform] - Archivo Tacna-4-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:48.373] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Tacna_Av._Ejercito-2-20250312_123847.xlsx
+[2025-03-12 12:39:48.373] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Tacna_Av._Ejercito-2-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:48.543] INFO [14074] [ETL-Process.Transform] - Filtrados 1 registros pre-inscritos
+[2025-03-12 12:39:48.544] INFO [14074] [ETL-Process.Transform] - Se eliminaron 90 filas vacías
+[2025-03-12 12:39:48.554] INFO [14074] [ETL-Process.Transform] - Archivo Tacna_Av._Ejercito-2-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:48.554] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Tacna_Gregorio_Albarracin-1A-20250312_123847.xlsx
+[2025-03-12 12:39:48.555] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Tacna_Gregorio_Albarracin-1A-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:48.670] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:48.672] INFO [14074] [ETL-Process.Transform] - Se eliminaron 84 filas vacías
+[2025-03-12 12:39:48.682] INFO [14074] [ETL-Process.Transform] - Archivo Tacna_Gregorio_Albarracin-1A-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:48.682] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Tarapoto-2-20250312_123847.xlsx
+[2025-03-12 12:39:48.682] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Tarapoto-2-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:48.828] INFO [14074] [ETL-Process.Transform] - Filtrados 2 registros pre-inscritos
+[2025-03-12 12:39:48.829] INFO [14074] [ETL-Process.Transform] - Se eliminaron 82 filas vacías
+[2025-03-12 12:39:48.838] INFO [14074] [ETL-Process.Transform] - Archivo Tarapoto-2-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:48.839] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Trujillo-5-20250312_123847.xlsx
+[2025-03-12 12:39:48.839] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Trujillo-5-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:48.944] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:48.946] INFO [14074] [ETL-Process.Transform] - Se eliminaron 64 filas vacías
+[2025-03-12 12:39:48.958] INFO [14074] [ETL-Process.Transform] - Archivo Trujillo-5-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:48.958] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Trujillo_La_Merced-1B-20250312_123847.xlsx
+[2025-03-12 12:39:48.958] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Trujillo_La_Merced-1B-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:49.100] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:49.101] INFO [14074] [ETL-Process.Transform] - Se eliminaron 76 filas vacías
+[2025-03-12 12:39:49.115] INFO [14074] [ETL-Process.Transform] - Archivo Trujillo_La_Merced-1B-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:49.115] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Trujillo_La_Noria-1A-20250312_123847.xlsx
+[2025-03-12 12:39:49.115] INFO [14074] [ETL-Process.Transform] - Procesando archivo: Trujillo_La_Noria-1A-20250312_123847.xlsx, hoja: Probacionistas
+[2025-03-12 12:39:49.221] INFO [14074] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 12:39:49.222] INFO [14074] [ETL-Process.Transform] - Se eliminaron 82 filas vacías
+[2025-03-12 12:39:49.239] INFO [14074] [ETL-Process.Transform] - Archivo Trujillo_La_Noria-1A-20250312_123847.xlsx procesado exitosamente
+[2025-03-12 12:39:49.239] INFO [14074] [ETL-Process.Transform] - Combinando resultados de todos los archivos
+[2025-03-12 12:39:49.241] INFO [14074] [ETL-Process.Transform] - Transformando estructura de datos (unpivot)
+[2025-03-12 12:39:49.246] INFO [14074] [ETL-Process.Transform] - Transformación completada. Shape final: (1656, 7)
+[2025-03-12 12:39:49.247] INFO [14074] [ETL-Process.Transform] - Guardando resultados en transformado_2025-03-12-12-39-49.xlsx
+[2025-03-12 12:39:49.521] INFO [14074] [ETL-Process.Transform] - Archivo transformado guardado exitosamente
+[2025-03-12 12:39:49.522] INFO [14074] [ETL-Process] - Transformación completada en 4.979 segundos
+[2025-03-12 12:39:49.522] INFO [14074] [ETL-Process] - Archivo generado: /workspaces/ETL-Asistencia/./data/processed/transformado_2025-03-12-12-39-49.xlsx
+[2025-03-12 12:39:49.522] INFO [14074] [ETL-Process] - Iniciando proceso de carga...
+[2025-03-12 12:39:49.522] INFO [14074] [ETL-Process.Load] - === INICIANDO PROCESO DE CARGA ===
+[2025-03-12 12:39:49.522] INFO [14074] [ETL-Process.Load] - Iniciando carga de datos desde: transformado_2025-03-12-12-39-49.xlsx
+[2025-03-12 12:39:49.698] INFO [14074] [ETL-Process.Load] - Datos leídos del Excel, shape: (1656, 7)
+[2025-03-12 12:39:49.698] INFO [14074] [ETL-Process.Load] - Configurando cliente de Google Sheets
+[2025-03-12 12:39:49.700] INFO [14074] [ETL-Process.Load] - Cliente de Google Sheets configurado exitosamente
+[2025-03-12 12:39:49.700] INFO [14074] [ETL-Process.Load] - Conectando con Google Sheet ID: 1KyRGrnkql19dQYnnPxmecLd3hQ7Cn2fLJ8BOBLHKtMA
+[2025-03-12 12:39:49.773] ERROR [14074] [ETL-Process.Load] - Error cargando datos a Google Sheets: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+Traceback (most recent call last):
+  File "/workspaces/ETL-Asistencia/src/etl/Load.py", line 49, in load_to_sheets
+    spreadsheet = client.open_by_key(spreadsheet_id)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/gspread/client.py", line 168, in open_by_key
+    spreadsheet = Spreadsheet(self.http_client, {"id": key})
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/gspread/spreadsheet.py", line 29, in __init__
+    metadata = self.fetch_sheet_metadata()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/gspread/spreadsheet.py", line 230, in fetch_sheet_metadata
+    return self.client.fetch_sheet_metadata(self.id, params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/gspread/http_client.py", line 305, in fetch_sheet_metadata
+    r = self.request("get", url, params=params)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/gspread/http_client.py", line 114, in request
+    response = self.session.request(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/google/auth/transport/requests.py", line 533, in request
+    self.credentials.before_request(auth_request, method, url, request_headers)
+  File "/home/codespace/.local/lib/python3.12/site-packages/google/auth/credentials.py", line 239, in before_request
+    self._blocking_refresh(request)
+  File "/home/codespace/.local/lib/python3.12/site-packages/google/auth/credentials.py", line 202, in _blocking_refresh
+    self.refresh(request)
+  File "/home/codespace/.local/lib/python3.12/site-packages/google/oauth2/service_account.py", line 448, in refresh
+    access_token, expiry, _ = _client.jwt_grant(
+                              ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/google/oauth2/_client.py", line 299, in jwt_grant
+    response_data = _token_endpoint_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/google/oauth2/_client.py", line 270, in _token_endpoint_request
+    _handle_error_response(response_data, retryable_error)
+  File "/home/codespace/.local/lib/python3.12/site-packages/google/oauth2/_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+[2025-03-12 12:39:49.776] ERROR [14074] [ETL-Process.Load] - === PROCESO DE CARGA FALLIDO ===
+[2025-03-12 12:39:49.776] ERROR [14074] [ETL-Process] - Error en proceso ETL: Falló el proceso de carga
+[2025-03-12 12:39:49.776] ERROR [14074] [ETL-Process] - Detalles del error:
+[2025-03-12 12:39:49.776] ERROR [14074] [ETL-Process] - Traceback (most recent call last):
+  File "/workspaces/ETL-Asistencia/src/etl/etl.py", line 98, in run_etl
+    raise Exception("Falló el proceso de carga")
+Exception: Falló el proceso de carga
+
+[2025-03-12 12:39:49.777] ERROR [14074] [ETL-Process] - === PROCESO ETL FALLIDO ===
+[2025-03-12 12:39:49.777] ERROR [14074] [ETL-Process] - Hora de finalización: 2025-03-12 12:39:49.777080
+[2025-03-12 12:39:49.777] ERROR [14074] [ETL-Process] - Duración total: 62.012 segundos

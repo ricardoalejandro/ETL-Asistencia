@@ -1,0 +1,123 @@
+[2025-03-12 08:10:28.094] INFO [13332] [ETL-Process] - === INICIANDO PROCESO ETL ===
+[2025-03-12 08:10:28.095] INFO [13332] [ETL-Process] - Hora de inicio: 2025-03-12 08:10:28.094867
+[2025-03-12 08:10:28.095] INFO [13332] [ETL-Process] - Iniciando proceso de extracción...
+[2025-03-12 08:10:28.096] INFO [13332] [ETL-Process.Extract] - === INICIANDO PROCESO DE EXTRACCIÓN ===
+[2025-03-12 08:10:28.097] INFO [13332] [ETL-Process.Extract] - Directorios verificados y creados si es necesario
+[2025-03-12 08:10:28.097] INFO [13332] [ETL-Process.Extract] - Iniciando proceso de descarga de archivos Excel
+[2025-03-12 08:10:28.100] INFO [13332] [ETL-Process.Extract] - Carpeta creada para descargas: C:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\./data/downloads\data_probacionismo_20250312_081028
+[2025-03-12 08:10:28.100] INFO [13332] [ETL-Process.Extract] - Procesando sede: Arequipa (Nivel 5)
+[2025-03-12 08:10:28.100] INFO [13332] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa
+[2025-03-12 08:10:33.313] INFO [13332] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 08:10:33.314] INFO [13332] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa
+[2025-03-12 08:10:33.322] INFO [13332] [ETL-Process.Extract] - Archivo guardado: Arequipa-5-20250312_081028.xlsx
+[2025-03-12 08:10:33.323] INFO [13332] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa
+[2025-03-12 08:10:33.323] INFO [13332] [ETL-Process.Extract] - Procesando sede: Arequipa - Cerro Colorado (Nivel 1A)
+[2025-03-12 08:10:33.324] INFO [13332] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa - Cerro Colorado
+[2025-03-12 08:10:37.805] INFO [13332] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 08:10:37.806] INFO [13332] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa - Cerro Colorado
+[2025-03-12 08:10:37.815] INFO [13332] [ETL-Process.Extract] - Archivo guardado: Arequipa_Cerro_Colorado-1A-20250312_081028.xlsx
+[2025-03-12 08:10:37.816] INFO [13332] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa - Cerro Colorado
+[2025-03-12 08:10:37.817] INFO [13332] [ETL-Process.Extract] - Procesando sede: Arequipa - Lambramani (Nivel 1B)
+[2025-03-12 08:10:37.817] INFO [13332] [ETL-Process.Extract] - Iniciando descarga para sede: Arequipa - Lambramani
+[2025-03-12 08:10:42.940] INFO [13332] [ETL-Process.Extract] - Archivo Excel encontrado correctamente
+[2025-03-12 08:10:42.940] INFO [13332] [ETL-Process.Extract] - Archivo descargado correctamente para Arequipa - Lambramani
+[2025-03-12 08:10:42.944] INFO [13332] [ETL-Process.Extract] - Archivo guardado: Arequipa_Lambramani-1B-20250312_081028.xlsx
+[2025-03-12 08:10:42.945] INFO [13332] [ETL-Process.Extract] - Procesamiento exitoso para Arequipa - Lambramani
+[2025-03-12 08:10:42.945] INFO [13332] [ETL-Process.Extract] - Proceso de descarga completado. 3 de 3 archivos procesados
+[2025-03-12 08:10:42.945] INFO [13332] [ETL-Process.Extract] - === PROCESO DE EXTRACCIÓN COMPLETADO (14.849 segundos) ===
+[2025-03-12 08:10:42.945] INFO [13332] [ETL-Process] - Extracción completada en 14.850 segundos
+[2025-03-12 08:10:42.946] INFO [13332] [ETL-Process] - Archivos guardados en: C:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\./data/downloads\data_probacionismo_20250312_081028
+[2025-03-12 08:10:42.946] INFO [13332] [ETL-Process] - Archivos descargados: ['Arequipa-5-20250312_081028.xlsx', 'Arequipa_Cerro_Colorado-1A-20250312_081028.xlsx', 'Arequipa_Lambramani-1B-20250312_081028.xlsx']
+[2025-03-12 08:10:42.946] INFO [13332] [ETL-Process] - Iniciando proceso de transformación...
+[2025-03-12 08:10:42.947] INFO [13332] [ETL-Process.Transform] - Iniciando proceso de transformación de datos
+[2025-03-12 08:10:42.947] INFO [13332] [ETL-Process.Transform] - Procesando 3 archivos de C:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\./data/downloads\data_probacionismo_20250312_081028
+[2025-03-12 08:10:42.949] INFO [13332] [ETL-Process.Transform] - Iniciando procesamiento de 3 archivos
+[2025-03-12 08:10:42.949] INFO [13332] [ETL-Process.Transform] - Procesando archivo: Arequipa-5-20250312_081028.xlsx
+[2025-03-12 08:10:42.950] INFO [13332] [ETL-Process.Transform] - Procesando archivo: Arequipa-5-20250312_081028.xlsx, hoja: Probacionistas
+[2025-03-12 08:10:43.027] INFO [13332] [ETL-Process.Transform] - Filtrados 1 registros pre-inscritos
+[2025-03-12 08:10:43.029] INFO [13332] [ETL-Process.Transform] - Se eliminaron 80 filas vacías
+[2025-03-12 08:10:43.039] INFO [13332] [ETL-Process.Transform] - Archivo Arequipa-5-20250312_081028.xlsx procesado exitosamente
+[2025-03-12 08:10:43.039] INFO [13332] [ETL-Process.Transform] - Procesando archivo: Arequipa_Cerro_Colorado-1A-20250312_081028.xlsx
+[2025-03-12 08:10:43.040] INFO [13332] [ETL-Process.Transform] - Procesando archivo: Arequipa_Cerro_Colorado-1A-20250312_081028.xlsx, hoja: Probacionistas
+[2025-03-12 08:10:43.094] INFO [13332] [ETL-Process.Transform] - Filtrados 1 registros pre-inscritos
+[2025-03-12 08:10:43.095] INFO [13332] [ETL-Process.Transform] - Se eliminaron 92 filas vacías
+[2025-03-12 08:10:43.102] INFO [13332] [ETL-Process.Transform] - Archivo Arequipa_Cerro_Colorado-1A-20250312_081028.xlsx procesado exitosamente
+[2025-03-12 08:10:43.102] INFO [13332] [ETL-Process.Transform] - Procesando archivo: Arequipa_Lambramani-1B-20250312_081028.xlsx
+[2025-03-12 08:10:43.102] INFO [13332] [ETL-Process.Transform] - Procesando archivo: Arequipa_Lambramani-1B-20250312_081028.xlsx, hoja: Probacionistas
+[2025-03-12 08:10:43.155] INFO [13332] [ETL-Process.Transform] - Filtrados 0 registros pre-inscritos
+[2025-03-12 08:10:43.157] INFO [13332] [ETL-Process.Transform] - Se eliminaron 87 filas vacías
+[2025-03-12 08:10:43.162] INFO [13332] [ETL-Process.Transform] - Archivo Arequipa_Lambramani-1B-20250312_081028.xlsx procesado exitosamente
+[2025-03-12 08:10:43.162] INFO [13332] [ETL-Process.Transform] - Combinando resultados de todos los archivos
+[2025-03-12 08:10:43.163] INFO [13332] [ETL-Process.Transform] - Transformando estructura de datos (unpivot)
+[2025-03-12 08:10:43.170] INFO [13332] [ETL-Process.Transform] - Transformación completada. Shape final: (96, 7)
+[2025-03-12 08:10:43.171] INFO [13332] [ETL-Process.Transform] - Guardando resultados en transformado_2025-03-12-08-10-43.xlsx
+[2025-03-12 08:10:43.193] INFO [13332] [ETL-Process.Transform] - Archivo transformado guardado exitosamente
+[2025-03-12 08:10:43.194] INFO [13332] [ETL-Process] - Transformación completada en 0.247 segundos
+[2025-03-12 08:10:43.194] INFO [13332] [ETL-Process] - Archivo generado: C:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\./data/processed\transformado_2025-03-12-08-10-43.xlsx
+[2025-03-12 08:10:43.194] INFO [13332] [ETL-Process] - Iniciando proceso de carga...
+[2025-03-12 08:10:43.195] INFO [13332] [ETL-Process.Load] - === INICIANDO PROCESO DE CARGA ===
+[2025-03-12 08:10:43.195] INFO [13332] [ETL-Process.Load] - Iniciando carga de datos desde: transformado_2025-03-12-08-10-43.xlsx
+[2025-03-12 08:10:43.204] INFO [13332] [ETL-Process.Load] - Datos leídos del Excel, shape: (96, 7)
+[2025-03-12 08:10:43.204] INFO [13332] [ETL-Process.Load] - Configurando cliente de Google Sheets
+[2025-03-12 08:10:43.247] INFO [13332] [ETL-Process.Load] - Cliente de Google Sheets configurado exitosamente
+[2025-03-12 08:10:43.249] INFO [13332] [ETL-Process.Load] - Conectando con Google Sheet ID: 1KyRGrnkql19dQYnnPxmecLd3hQ7Cn2fLJ8BOBLHKtMA
+[2025-03-12 08:10:43.497] ERROR [13332] [ETL-Process.Load] - Error cargando datos a Google Sheets: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+Traceback (most recent call last):
+  File "C:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\src\etl\Load.py", line 49, in load_to_sheets
+    spreadsheet = client.open_by_key(spreadsheet_id)
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\gspread\client.py", line 168, in open_by_key
+    spreadsheet = Spreadsheet(self.http_client, {"id": key})
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\gspread\spreadsheet.py", line 29, in __init__
+    metadata = self.fetch_sheet_metadata()
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\gspread\spreadsheet.py", line 230, in fetch_sheet_metadata
+    return self.client.fetch_sheet_metadata(self.id, params=params)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\gspread\http_client.py", line 305, in fetch_sheet_metadata
+    r = self.request("get", url, params=params)
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\gspread\http_client.py", line 114, in request
+    response = self.session.request(
+        method=method,
+    ...<6 lines>...
+        timeout=self.timeout,
+    )
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\transport\requests.py", line 533, in request
+    self.credentials.before_request(auth_request, method, url, request_headers)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\credentials.py", line 239, in before_request
+    self._blocking_refresh(request)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\credentials.py", line 202, in _blocking_refresh
+    self.refresh(request)
+    ~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\oauth2\service_account.py", line 448, in refresh
+    access_token, expiry, _ = _client.jwt_grant(
+                              ~~~~~~~~~~~~~~~~~^
+        request, self._token_uri, assertion
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\oauth2\_client.py", line 299, in jwt_grant
+    response_data = _token_endpoint_request(
+        request,
+    ...<5 lines>...
+        },
+    )
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\oauth2\_client.py", line 270, in _token_endpoint_request
+    _handle_error_response(response_data, retryable_error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rrojacam\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+        error_details, response_data, retryable=retryable_error
+    )
+google.auth.exceptions.RefreshError: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+[2025-03-12 08:10:43.525] ERROR [13332] [ETL-Process.Load] - === PROCESO DE CARGA FALLIDO ===
+[2025-03-12 08:10:43.526] ERROR [13332] [ETL-Process] - Error en proceso ETL: Falló el proceso de carga
+[2025-03-12 08:10:43.527] ERROR [13332] [ETL-Process] - Detalles del error:
+[2025-03-12 08:10:43.533] ERROR [13332] [ETL-Process] - Traceback (most recent call last):
+  File "C:\Users\rrojacam\Desktop\Proyectos\ETL-Asistencia\src\etl\etl.py", line 98, in run_etl
+    raise Exception("Falló el proceso de carga")
+Exception: Falló el proceso de carga
+
+[2025-03-12 08:10:43.534] ERROR [13332] [ETL-Process] - === PROCESO ETL FALLIDO ===
+[2025-03-12 08:10:43.536] ERROR [13332] [ETL-Process] - Hora de finalización: 2025-03-12 08:10:43.534814
+[2025-03-12 08:10:43.537] ERROR [13332] [ETL-Process] - Duración total: 15.440 segundos
